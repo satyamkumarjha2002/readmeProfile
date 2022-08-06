@@ -1,68 +1,131 @@
-[![MasterHead](https://github.com/satyamkumarjha2002/readmeProfile/blob/main/img/Satyam%20Kumar%20Jha%20(1).jpg)](https://rishavchanda.io)
-<h1 align="center">Hii <img style=" height: 30px;" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png" alt=""> I am Satyam Kumar Jha</h1>
+[![MasterHead](https://blog.monkey.codes/content/images/2015/12/monkey_code_banner.jpg)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Laxmi Wavale</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/9d/cb/36/9dcb36579d4518b31451906466dc735d.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laxmi16101995&label=Profile%20views&color=0e75b6&style=flat" alt="laxmi16101995" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot**
-- 📫 How to reach me **sjha02859@gmail.com**
+- 🌱 I’m currently learning **SQL**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_cm7oLJodnm2bb198PhAvCgP1Bx_xgYR/view)
+- 👨‍💻 All of my projects are available at [https://laxmi16101995.github.io/Portfolio_Wavale_Laxmi/](https://laxmi16101995.github.io/Portfolio_Wavale_Laxmi/)
+
+- 📫 How to reach me **laxmiwavale1995@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1D5DWIdoi6VSFbME9fl5Ucd7eDy68RIQW/view](https://drive.google.com/file/d/1D5DWIdoi6VSFbME9fl5Ucd7eDy68RIQW/view)
 
 - ⚡ Fun fact **I think I am funny!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/satyam-kumar-jha-29b354235/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linked In" height="30"/></a>
-<a href="https://twitter.com/SatyamK25680503" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="Twitter" height="30" /></a>
-<a href="https://www.hackerrank.com/sjha02859?hr_r=1" target="_blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="Hacker Rank" height="30" /></a>
+<a href="https://fb.com/laxmi-wavale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="laxmi-wavale" height="30" width="40" /></a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
-      src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png"
-      alt="Java"
-      height="60"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+      alt="css3"
+      width="40"
+      height="40"
     />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
       alt="git"
-      height="60"
+      width="40"
+      height="40"
     />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
-      src="https://i.pinimg.com/736x/28/75/3d/28753ddf79d70042ba86564947e13bf5.jpg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5"
-      height="60"
+      width="40"
+      height="40"
     />
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
       alt="java"
-      height="60"
+      width="40"
+      height="40"
     />
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    target="_blank"
+    rel="noreferrer"
+  >
     <img
-      src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
-      height="60"
+      width="40"
+      height="40"
     />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      height="60"
-    />
-    <img
-      src="https://download.logo.wine/logo/Spring_Framework/Spring_Framework-Logo.wine.png"
-      alt="mysql"
-      height="60"
-    />
-   <img
-      src="https://www.devteam.space/wp-content/uploads/2018/05/hibernate.jpg"
       alt="mysql"
       width="40"
       height="40"
     />
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+	<img
+	  src="./spring-icon1.svg"
+	  alt="spring"
+	  width="40"
+	  height="40"
+	/>
+   </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+	<img
+	  src="./spring-boot-logo.png"
+	  alt="spring"
+	  width="40"
+	  height="40"
+	/>
+   </a>
+   <a href="https://hibernate.org/orm/documentation/6.1/" target="_blank" rel="noreferrer">
+	<img
+	  src="./hibernate_logo_icon_171004.svg"
+	  alt="spring"
+	  width="40"
+	  height="40"
+	/>
+   </a>
+   <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer">
+	<img
+	  src="./mysqlworkbench_102952.svg"
+	  alt="spring"
+	  width="40"
+	  height="40"
+	/>
+   </a>
+   <a href="https://docs.oracle.com/javaee/7/tutorial/servlets.htm" target="_blank" rel="noreferrer">
+	<img
+	  src="./external-content.duckduckgo.com.png"
+	  alt="spring"
+	  width="40"
+	  height="40"
+	/>
+   </a>
+   <a href="https://devdocs.io/bash/" target="_blank" rel="noreferrer">
+	<img
+	  src="./command.png"
+	  alt="spring"
+	  width="40"
+	  height="40"
+	/>
+   </a>
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyamkumarjha2002&show_icons=true&locale=en&layout=compact" alt="Satyam Kumar Jha" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laxmi16101995&show_icons=true&locale=en&layout=compact" alt="laxmi16101995" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyamkumarjha2002&show_icons=true&locale=en" alt="Satyam Kuamr Jha" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laxmi16101995&show_icons=true&locale=en" alt="laxmi16101995" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamkumarjha2002&" alt="Satyam Kumar Jha" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laxmi16101995&" alt="laxmi16101995" /></p>
