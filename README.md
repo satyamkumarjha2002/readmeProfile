@@ -1,8 +1,4 @@
-<img
-      src="https://github.com/satyamkumarjha2002/readmeProfile/blob/main/img/Satyam%20Kumar%20Jha%20(1).jpg"
-      alt="java"
-      width="100%"
- />
+[![MasterHead](https://github.com/satyamkumarjha2002/readmeProfile/blob/main/img/Satyam%20Kumar%20Jha%20(1).jpg)](https://rishavchanda.io)
 <h1 align="center">Hii <img style=" height: 30px;" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png" alt=""> I am Satyam Kumar Jha</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laxmi16101995&label=Profile%20views&color=0e75b6&style=flat" alt="laxmi16101995" /> </p>
